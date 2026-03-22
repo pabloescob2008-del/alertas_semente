@@ -19,4 +19,4 @@ jobs:
       - run: pip install -r requirements.txt
 
       - run: ls -R
-      - run: python Alerta.py
+      - run: python alerta.py
